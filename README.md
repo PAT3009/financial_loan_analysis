@@ -108,18 +108,18 @@ This project focuses on analyzing historical loan data to identify lending patte
 ## 📂 Project Structure
 
 ```text
-financial_loan_analysis/
+financial_loan_portfolio_analysis/
 │
-├── data/
-│   └── financial_loan.csv
+├── loan_portfolio_analysis.csv
+│   
 │
 ├── sql/
-│   ├── 01_data_preprocessing.sql
-│   ├── 02_eda.sql
-│   └── 03_dashboard_queries.sql
+│   ├── 01_data_cleaning.sql
+│   ├── 02_exploratory_data_analysis.sql
+│   └── 03_loan_portfolio_analysis.sql
 │
-├── powerbi/
-│   └── financial_loan_dashboard.pbix
+├── loan_portfolio_performance_analysis.pbix
+│   
 │
 ├── docs/
 │   ├── 01_project_overview.pdf
@@ -198,15 +198,15 @@ Displays transaction-level loan records, enabling users to drill down into indiv
 
 ### Executive Summary Dashboard
 
-*(Insert Summary Dashboard Screenshot)*
+*<img width="1459" height="821" alt="Sum" src="https://github.com/user-attachments/assets/4bd12c2e-db3e-44a0-a282-2fb7fa405177" />*
 
 ### Portfolio Overview Dashboard
 
-*(Insert Overview Dashboard Screenshot)*
+*<img width="1461" height="821" alt="OV-1" src="https://github.com/user-attachments/assets/7cae7983-2078-4ff5-97c9-8212244bfe7d" />*
 
 ### Loan Details Dashboard
 
-*(Insert Details Dashboard Screenshot)*
+*<img width="1461" height="821" alt="DT-1" src="https://github.com/user-attachments/assets/c797ef8d-3ad2-4c73-9a45-261b92a1263d" />*
 
 ---
 
